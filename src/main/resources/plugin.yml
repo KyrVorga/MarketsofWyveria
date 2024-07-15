@@ -1,0 +1,4 @@
+name: MarketsofWyveria
+version: '${project.version}'
+main: wyveria.net.markets.MarketsofWyveria
+api-version: '1.21'
